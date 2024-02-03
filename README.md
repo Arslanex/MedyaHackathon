@@ -22,7 +22,7 @@ Out:
 
 Dosyanın sonunda video içinde arana bir kelime olması durumunda bulunup bulunmadığını, .str dosyasında hangi aralıkta olduğunu ve video hangi saniyelerde olduğunu gösteren methodlar bulunmaktadır.
 
-### Original Sub Dosyası
+### TranslatedSub Dosyası
 In: 
 - .mp4 file
 - goole api key
