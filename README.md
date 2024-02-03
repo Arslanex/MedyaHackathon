@@ -5,7 +5,9 @@ VidInsight projesi, çeşitli dillerdeki videolara hızlı ve yüksek doğrulukl
 https://github.com/Arslanex/MedyaHackathon/assets/44752389/7f425a75-94e7-4518-9d8c-86418b73e3fb
 
 ## Deployment
-Projemiz şuan erken geliştirme aşamasında oldu için tüm çalışmalar **Google Collab** sisteminde çalışmaktadır. İlerleyen aşamalarda bulut tabanlı bir yapıya geçmesi planlansada şuan için aşağıdaki bağlantılar ile ilgli dosyaları açmanız yeterli olacaktır. 
+Projemiz şuan erken geliştirme aşamasında oldu için tüm çalışmalar **Google Collab** sisteminde çalışmaktadır. İlerleyen aşamalarda bulut tabanlı bir yapıya geçmesi planlansada şuan için aşağıdaki video örneğinde olduğu gibi dosyaları collab üzerinden açabilir ve çalıştırabilirsiniz. Aşağıda örnek bir video bulunmaktadır.
+
+https://github.com/Arslanex/MedyaHackathon/assets/44752389/af882d64-c880-4d8c-adf3-ec48b863c845
 
 ## How To Use 
 VidInsight programı kapsamında aşağıdaki uygulamaları yapabilirsiniz. Yapmak istediğiniz işlemin collab dosyasını açarak işleminize başlayın. Her çalışmanın başında çalışanın ihityaç duyacağı dosyalar veya yapabileceğiniz ayarlamalar bulunmaktadır. Kısaca her dosya için yapmanız gereken yüklemeleri ve yapabilceğiniz ayarlamaları aşağıdaki tabloda paylaşıyorum. Daha detaylı rehber için [bağlantıya]() tıklayarak dökümana ulaşabilirsiniz.
