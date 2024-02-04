@@ -1,3 +1,5 @@
+![aa](https://github.com/Arslanex/MedyaHackathon/assets/44752389/19bb6354-fb2a-49d0-b6e7-aa9859c02f10)
+
 # VidInsight
 VidInsight projesi, çeşitli dillerdeki videolara hızlı ve yüksek doğrulukla alt yazı ekleyip montajlama yeteneğine sahip bir teknoloji geliştirmeyi amaçlamaktadır. Projemiz, bir video dosyasının dilini otomatik olarak tespit edebilir ve orijinal dilde veya kullanıcının tercihine bağlı olarak seçilen bir alternatif dilde alt yazı sağlayabilir. Bu özellik, videoların daha geniş bir izleyici kitlesine ulaşmasını ve içerik oluşturucuların farklı dil konuşan kitlelerle etkileşim kurmasını kolaylaştırır. VidInsight, kullanıcı dostu bir arayüz sunarak video içeriklerin düzenlenmesi ve yayınlanması süreçlerini basitleştirmeyi hedefler.
 
@@ -7,7 +9,7 @@ https://github.com/Arslanex/MedyaHackathon/assets/44752389/2754c457-9de4-44ff-91
 ## Deployment
 Projemiz şuan erken geliştirme aşamasında oldu için tüm çalışmalar **Google Collab** sisteminde çalışmaktadır. İlerleyen aşamalarda bulut tabanlı bir yapıya geçmesi planlansada şuan için aşağıdaki video örneğinde olduğu gibi dosyaları collab üzerinden açabilir ve çalıştırabilirsiniz. Aşağıda örnek bir video bulunmaktadır.
 
-https://github.com/Arslanex/MedyaHackathon/assets/44752389/af882d64-c880-4d8c-adf3-ec48b863c845
+https://github.com/Arslanex/MedyaHackathon/assets/44752389/b3e4761d-0b6c-4fcc-bd1c-498e94307f35
 
 ## How To Use 
 VidInsight programı kapsamında aşağıdaki uygulamaları yapabilirsiniz. Yapmak istediğiniz işlemin collab dosyasını açarak işleminize başlayın. Her çalışmanın başında çalışanın ihityaç duyacağı dosyalar veya yapabileceğiniz ayarlamalar bulunmaktadır. Kısaca her dosya için yapmanız gereken yüklemeleri ve yapabilceğiniz ayarlamaları aşağıdaki tabloda paylaşıyorum. Daha detaylı rehber için [bağlantıya]() tıklayarak dökümana ulaşabilirsiniz.
