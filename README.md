@@ -48,8 +48,8 @@ Bu kütüphaneyi kullanmak için bir Google Cloud API Anahtarına ihtiyacınız 
   - ...
 
  
-  ### Bir Videoda Aranan Kelime(leri) Bulma -> Find_It.ipynb
-  **Yüklenmesi Gereken Dosyalar:**
+### Bir Videoda Aranan Kelime(leri) Bulma -> Find_It.ipynb
+**Yüklenmesi Gereken Dosyalar:**
 - kaynak video (.mp4 formatında)
 - Deepgram API Key [here](https://console.deepgram.com/project/17fc1ef6-8a79-4d16-85e6-37ab5edb1404/keys)
 
