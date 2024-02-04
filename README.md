@@ -12,7 +12,7 @@ Projemiz şuan erken geliştirme aşamasında oldu için tüm çalışmalar **Go
 https://github.com/Arslanex/MedyaHackathon/assets/44752389/b3e4761d-0b6c-4fcc-bd1c-498e94307f35
 
 ## How To Use 
-VidInsight programı kapsamında aşağıdaki uygulamaları yapabilirsiniz. Yapmak istediğiniz işlemin collab dosyasını açarak işleminize başlayın. Her çalışmanın başında çalışanın ihityaç duyacağı dosyalar veya yapabileceğiniz ayarlamalar bulunmaktadır. Kısaca her dosya için yapmanız gereken yüklemeleri ve yapabilceğiniz ayarlamaları aşağıdaki tabloda paylaşıyorum. Daha detaylı rehber için [bağlantıya]() tıklayarak dökümana ulaşabilirsiniz.
+VidInsight programı kapsamında aşağıdaki uygulamaları yapabilirsiniz. Yapmak istediğiniz işlemin collab dosyasını açarak işleminize başlayın. Her çalışmanın başında çalışanın ihityaç duyacağı dosyalar veya yapabileceğiniz ayarlamalar bulunmaktadır. Kısaca her dosya için yapmanız gereken yüklemeleri ve yapabilceğiniz ayarlamaları aşağıdaki tabloda paylaşıyorum. Daha detaylı rehber için [bağlantıya](https://docs.google.com/document/d/1qGrN_Sy-nIdbus5VKMBhvre9nOg3smScP6-2TKku658/edit?usp=sharing) tıklayarak dökümana ulaşabilirsiniz.
 
 İlgilendiğiniz işlemin Collab sayfasını açtıktan sonra tek yapmanız gerken aşağıda da belirtilen gerekli dosyaları yüklemek ve çalıştırmak.
 
