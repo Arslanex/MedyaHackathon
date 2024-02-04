@@ -14,6 +14,7 @@ VidInsight programı kapsamında aşağıdaki uygulamaları yapabilirsiniz. Yapm
 
 İlgilendiğiniz işlemin Collab sayfasını açtıktan sonra tek yapmanız gerken aşağıda da belirtilen gerekli dosyaları yüklemek ve çalıştırmak.
 
+
 ### Orjinal Dilinden Alt Yazı -> Original_Sub.ipynb 
 **Yüklenmesi Gereken Dosyalar:**
 - kaynak video (.mp4 formatında)
@@ -26,6 +27,7 @@ VidInsight programı kapsamında aşağıdaki uygulamaları yapabilirsiniz. Yapm
   - Yazı Konumu
   - ...
 
+
 ### Seçilen Dilden Alt Yazı -> Translated_Sub.ipynb 
 **Yüklenmesi Gereken Dosyalar:**
 - kaynak video (.mp4 formatında)
@@ -33,7 +35,6 @@ VidInsight programı kapsamında aşağıdaki uygulamaları yapabilirsiniz. Yapm
   
 Bu kütüphaneyi kullanmak için bir Google Cloud API Anahtarına ihtiyacınız var. Yeni bir json anahtarı oluşturmanız gerekmektedir. Bağlantız üzerinden detaylara uaşabilrisiniz. [here](https://console.cloud.google.com/apis/credentials/serviceaccountkey). 
 
-  
 **Yapılabilir Ayarlamalar:**
 - Çeviri Ayarlamaları
   - Mevcut Dil
@@ -45,6 +46,7 @@ Bu kütüphaneyi kullanmak için bir Google Cloud API Anahtarına ihtiyacınız 
   - Arka Plan Rengi
   - Yazı Konumu
   - ...
+
  
   ### Bir Videoda Aranan Kelime(leri) Bulma -> Find_It.ipynb
   **Yüklenmesi Gereken Dosyalar:**
@@ -53,6 +55,7 @@ Bu kütüphaneyi kullanmak için bir Google Cloud API Anahtarına ihtiyacınız 
 
 **Yapılabilir Ayarlamalar:**
 - Aranan kelime
+
 
 ### Video Özetleme -> Summurize_Vide_Desc.ipynb
 **Yüklenmesi Gereken Dosyalar:**
