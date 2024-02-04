@@ -2,7 +2,7 @@
 VidInsight projesi, çeşitli dillerdeki videolara hızlı ve yüksek doğrulukla alt yazı ekleyip montajlama yeteneğine sahip bir teknoloji geliştirmeyi amaçlamaktadır. Projemiz, bir video dosyasının dilini otomatik olarak tespit edebilir ve orijinal dilde veya kullanıcının tercihine bağlı olarak seçilen bir alternatif dilde alt yazı sağlayabilir. Bu özellik, videoların daha geniş bir izleyici kitlesine ulaşmasını ve içerik oluşturucuların farklı dil konuşan kitlelerle etkileşim kurmasını kolaylaştırır. VidInsight, kullanıcı dostu bir arayüz sunarak video içeriklerin düzenlenmesi ve yayınlanması süreçlerini basitleştirmeyi hedefler.
 
 ## Örnek Çıktı
-https://github.com/Arslanex/MedyaHackathon/assets/44752389/7f425a75-94e7-4518-9d8c-86418b73e3fb
+https://github.com/Arslanex/MedyaHackathon/assets/44752389/2754c457-9de4-44ff-9159-a9d1598df8c5
 
 ## Deployment
 Projemiz şuan erken geliştirme aşamasında oldu için tüm çalışmalar **Google Collab** sisteminde çalışmaktadır. İlerleyen aşamalarda bulut tabanlı bir yapıya geçmesi planlansada şuan için aşağıdaki video örneğinde olduğu gibi dosyaları collab üzerinden açabilir ve çalıştırabilirsiniz. Aşağıda örnek bir video bulunmaktadır.
@@ -53,3 +53,12 @@ Bu kütüphaneyi kullanmak için bir Google Cloud API Anahtarına ihtiyacınız 
 
 **Yapılabilir Ayarlamalar:**
 - Aranan kelime
+
+### Video Özetleme -> Summurize_Vide_Desc.ipynb
+**Yüklenmesi Gereken Dosyalar:**
+- kaynak video (.mp4 formatında)
+- openai api code
+  
+**Yapılabilir Ayarlamalar:**
+- Aranacak kelime
+
